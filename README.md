@@ -2,7 +2,7 @@
 
 ### नमस्ते (Namaste) 🙏
 <p>
-I'm Vinay, a Full Stack Developer from India
+<b>I'm Vinay, a Full Stack Developer from India</b>
 </p>
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left"> <img src="https://skillicons.dev/icons?i=cs,dotnet,redis,rabbitmq,visualstudio,angular,js,ts,html,vscode,azure,git,docker" /> </a> 
