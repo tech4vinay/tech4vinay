@@ -10,8 +10,6 @@
 
 </p> 
 
-![](https://readme-stats-snowy.vercel.app/api/top-langs/?username=tech4vinay&layout=compact&count_private=true)
-
 ### Find me here
 <a href="https://linkedin.com/in/tech4vinay" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50px" height="50px" /></a>
 <a href="https://instagram.com/photowala.vinay" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" /></a>
